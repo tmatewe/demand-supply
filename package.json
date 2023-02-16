@@ -1,0 +1,16 @@
+{
+  "name": "demand-supply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d demand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://tmatewe.github.io/demand-supply",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
